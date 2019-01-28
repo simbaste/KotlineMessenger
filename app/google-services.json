@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "605875081213",
+    "firebase_url": "https://kotlinemessengerapp.firebaseio.com",
+    "project_id": "kotlinemessengerapp",
+    "storage_bucket": "kotlinemessengerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605875081213:android:29c8f3ca561419ca",
+        "android_client_info": {
+          "package_name": "fr.msg.simbaste.kotlinemessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605875081213-f6s814a9munmn5p8p67fjejq26ganmsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJY9qeUOeUbcYIiUPECctx3vq3M-7KjMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
